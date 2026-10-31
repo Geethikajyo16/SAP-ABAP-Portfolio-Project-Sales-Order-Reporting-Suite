@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_PROG" serializer_version="v1.0.0">
+ <PROGDIR>
+  <NAME>Z_SALES_ORDER_REPORTING_SUITE</NAME>
+  <SUBC>1</SUBC>
+  <FIXPT>X</FIXPT>
+  <UCCHECK>X</UCCHECK>
+ </PROGDIR>
+</abapGit>

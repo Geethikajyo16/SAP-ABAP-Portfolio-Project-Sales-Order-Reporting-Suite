@@ -1,0 +1,1 @@
+Suggested license: MIT. Add the standard MIT License text and replace [year] and [fullname] before publishing.

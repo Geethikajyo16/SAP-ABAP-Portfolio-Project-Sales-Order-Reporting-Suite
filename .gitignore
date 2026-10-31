@@ -1,0 +1,10 @@
+# Local editor / OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+# Local exports and sensitive system data
+*.csv
+*.xlsx
+*.log
+.env
